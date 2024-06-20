@@ -31,4 +31,12 @@ WhatsApp is a widely used messaging platform, and analyzing chat data can provid
    ```bash
    git clone https://github.com/your-username/WhatsApp-Chat-Analysis-Project.git
    cd WhatsApp-Chat-Analysis-Project
+2. **Create a Virtual Environment:**
 
+```bash
+python -m venv venv 
+
+3. **Create a Virtual Environment:**
+
+```bash
+python -m venv venv
